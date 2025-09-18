@@ -1,0 +1,1 @@
+The program manages a database of students, where each student has attributes like name, address, phone number, student ID, major, degree, cumulative performance average (CPA), ECTS credits, total grade points, and a list of up to 6 courses. It provides a menu-driven interface for performing various operations on student data.

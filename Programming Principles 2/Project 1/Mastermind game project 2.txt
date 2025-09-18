@@ -1,0 +1,10 @@
+The program randomly selects a 5-digit secret number from a predefined set of six numbers.
+The player inputs a 5-digit guess, and the program provides feedback on the guess using specific response characters:
+
+B: Correct digit in the correct position.
+W: Correct digit in an incorrect position.
+_: Incorrect digit (not in the secret number).
+
+
+The game continues until the player guesses the number correctly, runs out of attempts (10), or chooses to quit by entering 'q'.
+After winning or losing, the player can choose to play again or exit.
